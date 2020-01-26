@@ -1,1 +1,112 @@
+body {
+	margin: 0px;
+	
+}
 
+.Gpic {
+    background-image: url("https://i.cbc.ca/1.3638138.1479852274!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/milky-way-concordia-pakistan.jpg");
+	font-family: 'Trebuchet MS', serif;
+	font-size: 50px;
+	color: white;
+	padding: 300px;
+	background-size: cover; 
+	margin: 0px;
+}
+
+.Spic {
+    background-image: url("https://lh3.googleusercontent.com/NcRpp1l8duQG5-_xp1AArCfOg-yERAYKQaPIMWMfxFnB4BiLVMGxDWpkhXBDj0RGHQ=h556");
+	font-family: 'Trebuchet MS', serif;
+	font-size: 50px;
+	color: white;
+	padding: 300px;
+	background-size: cover; 
+	margin: 0px;
+}
+
+.Cpic {
+    background-image: url("https://www.thebmc.co.uk/Handlers/ArticleImageHandler.ashx?id=7467&index=0&w=605&h=434");
+	font-family: 'Trebuchet MS', serif;
+	font-size: 50px;
+	color: white;
+	padding: 300px;
+	background-size: cover; 
+	margin: 0px;
+}
+
+.Npic {
+	background-image: url("https://cdn.eso.org/images/screen/b01.jpg");
+	font-family: 'Trebuchet MS', serif;
+	font-size: 50px;
+	color: white;
+	background-size: cover; 
+	height: 750px;
+	margin: 0px;
+}
+
+#small {
+	font-size: 20px;
+}
+
+#table1 {
+	background-color: #69169B;
+	color: white;
+	text-align: left;
+	font-size: 20px;
+}
+
+#table2 {
+	font-size: 20px;
+	border: 0px;
+}
+
+#table3 {
+	font-size: 20px;
+	border: 0px;
+}
+
+#footer1 {
+	font-family: 'Trebuchet MS';
+}
+
+table, th, td {
+	font-family: 'Trebuchet MS';
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-left: 150px;
+}
+
+.navbar {
+	background-color: black;
+	opacity: 0.6;
+	position: fixed;
+	width: 100%;
+	border: 2px solid white;
+	height: 45px; 
+	font-size: 20px;
+}
+
+}
+.navbar a{
+	color: white;
+	opacity: 1;
+}
+
+#navbar1:hover a{
+	color: #cc99cc;
+	opacity: 0.8;
+}
+
+#navbar2:hover a{
+	color: #cc99cc;
+	opacity: 0.8;
+}
+
+#navbar3:hover a{
+	color: #cc99cc;
+	opacity: 0.8;
+}
+
+#navbar4:hover a{
+	color: #cc99cc;
+	opacity: 0.8;
+}
